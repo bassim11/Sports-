@@ -1,0 +1,8 @@
+{
+  "name": "BSOM MDOC",
+  "description": "A high-performance HLS media file player with adaptive bitrate support, custom quality controls, and a modern dark UI optimized for Arabic users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
